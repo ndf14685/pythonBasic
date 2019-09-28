@@ -1,5 +1,66 @@
+()  Tuplas 
+[]  Listas 
+{}  Diccionarios 
+
+
 Tuplas 
 
 tuple () 
 
 Inmutables
+
+
+Lista dentro de tupla, la lista es mutable, se puede editar 
+
+tupla = (1,2,3)
+
+3 in tupla
+
+
+
+a = ("A")
+Index me devuelve el indice del valor que estoy buscando 
+
+
+a.index("B")
+
+
+a[]  ---> Para acceder con el indice y obtener el primer valor 
+
+a = (1,2,3)
+a[3]  Da error 
+
+
+
+append 
+
+
+
+a.insert("A") 
+
+del a(1)
+a.pop()
+
+
+Diccionarios 
+
+
+dict = {"a": 1, "b": 2}
+
+dict.keys()
+
+
+
+a.sort() modifica la lista 
+
+sorted(a) muestra otra lista ordenada sin modificar la primera
+
+Ver doc oficial de python 
+
+https://docs.python.org/3/library/functions.html
+
+
+
+
+
+
