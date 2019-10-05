@@ -1,0 +1,50 @@
+Slicing  
+
+Sacar un pedazo de lista desde hasta
+
+a[0:2]
+
+Copiar lista entera a[:]
+
+
+
+INPUT:
+
+a=input("INgrese un valor: ")
+
+
+
+Manejo de archivos 
+
+Apertura: 
+
+Modos mas comunes: Read Write  Append
+Write pisa a cero el archivo si existe
+
+Append abre y agrega en ultima linea
+
+file = open("file.txt", modo)
+
+modo="r" o modo="w" o modo="a"
+
+
+
+Lectura
+read()
+read(5)
+readline()
+readlines()
+for line in file
+
+
+Write
+
+CLOSE
+Siempre por ultimo hay que hacer un CLOSE. Por cada open un close
+
+
+Clausula with 
+
+with open("archivo.txt","r") as file:
+for linea in file:
+    print(linea)
