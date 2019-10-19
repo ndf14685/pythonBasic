@@ -1,0 +1,33 @@
+Con el _init_.py le estas diciendo a python que ese directorio es un package
+
+
+Modulo: Codigo echo por otras personas
+
+
+
+
+import math
+
+
+from math import *
+
+
+from math import sqrt as raizCuadrada    ---> Copado
+
+
+
+def suma(p, s):
+    return p+s
+
+
+suma(p=2,s=5)
+suma(s=5,p=2)
+
+
+def division(p, s):
+    return p/s
+
+
+suma(p=2,s=5)
+suma(s=5,p=2)
+

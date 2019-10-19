@@ -1,3 +1,6 @@
+
+diccionario = dict()  #Creo diccionario vacio
+
 Slicing  
 
 Sacar un pedazo de lista desde hasta
