@@ -1,0 +1,24 @@
+Estructura de Excepciones
+
+try: 
+
+Codigo a desarrollar
+except:
+error que identifico 
+
+Puede haber n de este bloque
+else:
+Este codigo se ejecuta si no hay ninguna excepcion
+
+finally:
+Este codigo se ejecuta siempre, haya o no excepcion
+
+
+
+
+
+raise, puede ir en cualquier bloque y lo que hace es FORZAR una expecion
+
+ej: 
+
+raise(ZeroDivisionError("Dividiste por 0"))

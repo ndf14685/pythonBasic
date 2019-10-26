@@ -31,3 +31,17 @@ def division(p, s):
 suma(p=2,s=5)
 suma(s=5,p=2)
 
+
+
+valores por defecto o opcionales: 
+def suma1(p, s=8):
+
+
+Cantidad arbitraria de valores: 
+def sumatoria(*operandos)
+
+ARgumentos como diccionarios (Keyword args)
+def guia(**registros)
+
+
+TURING COMPLETO: IF AND NOT XOR ---> Es la base para CREAR cualquier lenguaje de programacion
