@@ -37,3 +37,12 @@ print(os.listdir())
 
 sqlite3
 
+tkinter
+
+	label
+
+INVESTIGAR: 
+
+virtualenv de python
+
+
