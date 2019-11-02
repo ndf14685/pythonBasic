@@ -1,0 +1,39 @@
+pip   ----> repo de librerias para python
+
+auto pip to exe 
+Te transforma tu .py en windows a .exe
+Con interfaz bonita, simple de usar. 
+
+
+pyinstaller
+Ej de instalacion 
+
+pip install pyinstaller
+
+py2exe  Es lo mismo auto pip to exe
+
+
+
+Python como lenguaje de SCRIPTING
+
+argumentos: 
+Ej.:
+python myPython.py  HolaMUNDO
+
+
+
+sys: 
+Libreria que nos permite interactuar con interprete de python
+
+import sys
+
+
+os: 
+
+import os 
+
+print(os.listdir())
+
+
+sqlite3
+
